@@ -5,7 +5,7 @@ import requests # to get image from the web
 import shutil # to save it locally
 
 rep_path = '/Users/jonas/Documents/reps/parallax/src/'
-global_name = 'art_nouveau_2'
+global_name = 'buddhist_funeral'
 
 def read_write_image_url(url, file_path):
     # reading the image from the web
